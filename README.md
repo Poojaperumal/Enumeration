@@ -1,4 +1,4 @@
-# Enumeration
+te# Enumeration
 Enumeration Techniques
 
 # Explore Google hacking and enumeration 
@@ -139,9 +139,9 @@ Telnet allows to connect to remote host based on the port no. For smtp port no i
 telnet <host address> 25 to connect
 and issue appropriate commands
   
- ##Output
+ ## Output
   
-<img width="584" height="210" alt="image" src="https://github.com/user-attachments/assets/94886805-b16e-4148-ad87-4430d1bb4b46" />
+<img width="624" height="362" alt="image" src="https://github.com/user-attachments/assets/133e5caf-27e5-4df9-bea0-5a0ce7d0471d" />
 
 
 
