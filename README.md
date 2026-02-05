@@ -74,7 +74,8 @@ link: This operator allows you to search for pages that link to a specific URL. 
 cache: This operator allows you to view the cached version of a page. For example, "cache:example.com" would show the cached version of the example.com website.
 
 
-<img width="1863" height="969" alt="image" src="https://github.com/user-attachments/assets/05cc9c5c-7e2c-4831-9697-9a3056eb5200" />
+<img width="1531" height="915" alt="image" src="https://github.com/user-attachments/assets/03b01dda-30c2-473e-aab1-b06b2c09541d" />
+
 
  
 #DNS Enumeration
